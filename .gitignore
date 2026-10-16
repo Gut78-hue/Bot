@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables & secrets
+.env
+
+# Database file & local data
+data/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
